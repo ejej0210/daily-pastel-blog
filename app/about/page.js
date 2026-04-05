@@ -5,7 +5,8 @@ export default function About() {
         <div style={{ width: '120px', height: '120px', borderRadius: '50%', background: 'var(--primary)', margin: '0 auto 2rem', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '3rem' }}>
           🌸
         </div>
-        <h1 style={{ fontSize: '2.5rem', marginBottom: '1.5rem' }}>About Me</h1>
+        <h1 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>이은지</h1>
+        <p style={{ color: 'var(--text-light)', fontWeight: '600', marginBottom: '1.5rem' }}>학번: 20263234</p>
         <p style={{ fontSize: '1.1rem', color: 'var(--text-light)', lineHeight: '1.8' }}>
           안녕하세요! 소소한 행복을 기록하는 블로거입니다. 
           따뜻한 봄 햇살 아래서 마시는 커피, 

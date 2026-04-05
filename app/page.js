@@ -10,9 +10,9 @@ export default function Home() {
   return (
     <div>
       <section style={{ padding: '4rem 0', textAlign: 'center' }}>
-        <h1 style={{ fontSize: '3.5rem', marginBottom: '1.5rem' }}>Welcome to my Daily Memory</h1>
+        <h1 style={{ fontSize: '3.5rem', marginBottom: '1.5rem' }}>이은지의 Daily Memory</h1>
         <p style={{ fontSize: '1.2rem', color: 'var(--text-light)', maxWidth: '600px', margin: '0 auto' }}>
-          소소하지만 확실한 행복을 찾아가는 저의 일상을 기록하는 공간입니다. 
+          학번: 20263234 | 소소하지만 확실한 행복을 찾아가는 저의 일상을 기록하는 공간입니다. 
           파스텔톤 꿈을 담아 전해드려요.
         </p>
       </section>
